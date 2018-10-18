@@ -1,0 +1,9 @@
+[ 18%] Built target suction_gripper_action_server
+[ 36%] Built target simulated_grasp_action_server
+[ 36%] Built target _robot_io_generate_messages_check_deps_DigitalOutputUpdate
+[ 45%] Built target robot_io_generate_messages_lisp
+[ 54%] Built target robot_io_generate_messages_nodejs
+[ 72%] Built target robot_io_generate_messages_eus
+[ 81%] Built target robot_io_generate_messages_cpp
+[100%] Built target robot_io_generate_messages_py
+[100%] Built target robot_io_generate_messages

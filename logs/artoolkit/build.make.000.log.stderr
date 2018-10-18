@@ -1,0 +1,5 @@
+svn: E170013: Unable to connect to a repository at URL 'svn://svn.code.sf.net/p/artoolkit/code/trunk/artoolkit'
+svn: E210002: Network connection closed unexpectedly
+make[2]: *** [ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-download] Error 1
+make[1]: *** [CMakeFiles/ARToolkit.dir/all] Error 2
+make: *** [all] Error 2

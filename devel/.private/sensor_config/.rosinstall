@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jyk/perception_driven_ws/devel/.private/sensor_config/setup.sh

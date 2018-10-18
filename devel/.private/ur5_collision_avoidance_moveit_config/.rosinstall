@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jyk/perception_driven_ws/devel/.private/ur5_collision_avoidance_moveit_config/setup.sh

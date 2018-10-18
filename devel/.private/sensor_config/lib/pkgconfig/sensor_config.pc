@@ -1,0 +1,8 @@
+prefix=/home/jyk/perception_driven_ws/devel/.private/sensor_config
+
+Name: sensor_config
+Description: Description of sensor_config
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jyk/perception_driven_ws/devel/.private/sensor_config/lib 
+Requires: 

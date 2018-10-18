@@ -1,0 +1,1 @@
+/home/jyk/perception_driven_ws/devel/.private/ar_pose/share/roseus/ros/ar_pose/manifest.l

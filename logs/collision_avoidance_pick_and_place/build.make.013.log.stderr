@@ -1,0 +1,28 @@
+In file included from [01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/services/target_recognition_service.cpp:16:0[m[K:
+[01m[K/usr/include/pcl-1.7/pcl/ros/conversions.h:44:2:[m[K [01;35m[Kwarning: [m[K#warning The <pcl/ros/conversions.h> header is deprecated. please use <pcl/conversions.h> instead. [-Wcpp]
+ #warning The <pcl/ros/conversions.h> header is deprecated. please use \
+[01;32m[K  ^[m[K
+[01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/services/target_recognition_service.cpp:7:78:[m[K [01;36m[Knote: [m[K#pragma message: 64bit Architecture detected, enabling EIGEN VECTORIZATION
+   #pragma message("64bit Architecture detected, enabling EIGEN VECTORIZATION")
+[01;32m[K                                                                              ^[m[K
+[01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/tasks/move_to_wait_position.cpp:[m[K In member function '[01m[Kvoid collision_avoidance_pick_and_place::PickAndPlace::move_to_wait_position()[m[K':
+[01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/tasks/move_to_wait_position.cpp:42:26:[m[K [01;31m[Kerror: [m[K'[01m[KMoveGroupPtr {aka class boost::shared_ptr<moveit::planning_interface::MoveGroupInterface>}[m[K' has no member named '[01m[Kmove[m[K'
+   error = move_group_ptr.move();
+[01;32m[K                          ^[m[K
+[01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/nodes/generate_point_cloud.cpp:[m[K In member function '[01m[Kbool GeneratePointCloud::init()[m[K':
+[01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/nodes/generate_point_cloud.cpp:98:86:[m[K [01;35m[Kwarning: [m[K'[01m[Ktf::Quaternion::Quaternion(const tfScalar&, const tfScalar&, const tfScalar&)[m[K' is deprecated [-Wdeprecated-declarations]
+         tf::Quaternion(numeric_fields["ry"],numeric_fields["rx"],numeric_fields["rz"]),
+[01;32m[K                                                                                      ^[m[K
+In file included from [01m[K/opt/ros/kinetic/include/tf/LinearMath/Matrix3x3.h:20:0[m[K,
+                 from [01m[K/opt/ros/kinetic/include/tf/LinearMath/Transform.h:21[m[K,
+                 from [01m[K/opt/ros/kinetic/include/tf/transform_datatypes.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/pcl_ros/transforms.h:42[m[K,
+                 from [01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/nodes/generate_point_cloud.cpp:9[m[K:
+[01m[K/opt/ros/kinetic/include/tf/LinearMath/Quaternion.h:51:3:[m[K [01;36m[Knote: [m[Kdeclared here
+   Quaternion(const tfScalar& yaw, const tfScalar& pitch, const tfScalar& roll) __attribute__((deprecated))
+[01;32m[K   ^[m[K
+make[2]: *** [CMakeFiles/pick_and_place_node.dir/src/tasks/move_to_wait_position.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/pick_and_place_node.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

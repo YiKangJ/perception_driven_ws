@@ -1,0 +1,119 @@
+make[3]: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'ale/en/LC_MESSAGES/make.mo' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAlloc.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mFree.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mFree.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocDup.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocDup.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDup.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDup.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocTrans.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocTrans.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mTrans.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mTrans.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocMul.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocMul.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mMul.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mMul.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mSelfInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mSelfInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocUnit.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocUnit.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mUnit.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mUnit.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDet.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDet.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mPCA.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mPCA.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vAlloc.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vAlloc.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vFree.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vFree.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vHouse.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vHouse.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vInnerP.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vInnerP.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vTridiag.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vTridiag.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramGet.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramGet.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDecomp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDecomp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDistortion.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDistortion.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramChangeSize.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramChangeSize.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramFile.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramFile.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arDetectMarker.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arDetectMarker.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat2.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat2.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat3.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat3.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMatCont.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMatCont.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arLabeling.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arLabeling.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arDetectMarker2.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arDetectMarker2.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetMarkerInfo.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetMarkerInfo.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetCode.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetCode.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arUtil.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+In file included from [01m[KarUtil.c:23:0[m[K:
+[01m[KarUtil.c:[m[K In function ‘[01m[KarGetVersion[m[K’:
+[01m[K../../../include/AR/ar.h:64:30:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kexit[m[K’ [-Wimplicit-function-declaration]
+ {printf("malloc error!!\n"); exit(1);} }
+[01;32m[K                              ^[m[K
+[01m[KarUtil.c:46:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KarMalloc[m[K’
+   arMalloc(s, char, sizeof(version));
+[01;32m[K   ^[m[K
+[01m[K../../../include/AR/ar.h:64:30:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function ‘[01m[Kexit[m[K’
+ {printf("malloc error!!\n"); exit(1);} }
+[01;32m[K                              ^[m[K
+[01m[KarUtil.c:46:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KarMalloc[m[K’
+   arMalloc(s, char, sizeof(version));
+[01;32m[K   ^[m[K
+[01m[K../../../include/AR/ar.h:64:30:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<stdlib.h>[m[K’ or provide a declaration of ‘[01m[Kexit[m[K’
+ {printf("malloc error!!\n"); exit(1);} }
+[01;32m[K                              ^[m[K
+[01m[KarUtil.c:46:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KarMalloc[m[K’
+   arMalloc(s, char, sizeof(version));
+[01;32m[K   ^[m[K
+[01m[KarUtil.c:[m[K In function ‘[01m[KarUtilSleep[m[K’:
+[01m[KarUtil.c:308:5:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Knanosleep[m[K’ [-Wimplicit-function-declaration]
+     nanosleep( &req, NULL );
+[01;32m[K     ^[m[K
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arUtil.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'n_US/LC_MESSAGES/make.mo' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'n_US/LC_MESSAGES/make.mo' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'n_US/LC_MESSAGES/make.mo' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'n_US/LC_MESSAGES/make.mo' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'arMultiActivate.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'arMultiActivate.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARgsub.a' seems to have been created in deterministic mode. 'gsub.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARgsub.a' seems to have been created in deterministic mode. 'gsub.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+In file included from [01m[K../../../include/AR/video.h:102:0[m[K,
+                 from [01m[KgsubUtil.c:19[m[K:
+[01m[K../../../include/AR/sys/videoLinuxV4L.h:27:32:[m[K [01;31m[Kfatal error: [m[Klibv4l1-videodev.h: No such file or directory
+compilation terminated.
+make[5]: *** [../../libARgsubUtil.a(gsubUtil.o)] Error 1
+make[4]: *** [all] Error 2
+make[3]: *** [all] Error 2
+make[2]: *** [ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-build] Error 2
+make[1]: *** [CMakeFiles/ARToolkit.dir/all] Error 2
+make: *** [all] Error 2

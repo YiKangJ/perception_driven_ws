@@ -1,0 +1,244 @@
+make[3]: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'ale/en/LC_MESSAGES/make.mo' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAlloc.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mFree.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mFree.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocDup.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocDup.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDup.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDup.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocTrans.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocTrans.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mTrans.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mTrans.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocMul.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocMul.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mMul.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mMul.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mSelfInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mSelfInv.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocUnit.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mAllocUnit.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mUnit.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mUnit.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDet.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mDet.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mPCA.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'mPCA.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vAlloc.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vAlloc.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vFree.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vFree.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vHouse.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vHouse.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vInnerP.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vInnerP.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vTridiag.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'vTridiag.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramGet.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramGet.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDecomp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDecomp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDistortion.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDistortion.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramChangeSize.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramChangeSize.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramFile.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramFile.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'paramDisp.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arDetectMarker.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arDetectMarker.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat2.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat2.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat3.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMat3.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMatCont.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetTransMatCont.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arLabeling.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arLabeling.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arDetectMarker2.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arDetectMarker2.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetMarkerInfo.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetMarkerInfo.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetCode.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arGetCode.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arUtil.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+In file included from [01m[KarUtil.c:23:0[m[K:
+[01m[KarUtil.c:[m[K In function ‘[01m[KarGetVersion[m[K’:
+[01m[K../../../include/AR/ar.h:64:30:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kexit[m[K’ [-Wimplicit-function-declaration]
+ {printf("malloc error!!\n"); exit(1);} }
+[01;32m[K                              ^[m[K
+[01m[KarUtil.c:46:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KarMalloc[m[K’
+   arMalloc(s, char, sizeof(version));
+[01;32m[K   ^[m[K
+[01m[K../../../include/AR/ar.h:64:30:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function ‘[01m[Kexit[m[K’
+ {printf("malloc error!!\n"); exit(1);} }
+[01;32m[K                              ^[m[K
+[01m[KarUtil.c:46:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KarMalloc[m[K’
+   arMalloc(s, char, sizeof(version));
+[01;32m[K   ^[m[K
+[01m[K../../../include/AR/ar.h:64:30:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<stdlib.h>[m[K’ or provide a declaration of ‘[01m[Kexit[m[K’
+ {printf("malloc error!!\n"); exit(1);} }
+[01;32m[K                              ^[m[K
+[01m[KarUtil.c:46:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KarMalloc[m[K’
+   arMalloc(s, char, sizeof(version));
+[01;32m[K   ^[m[K
+[01m[KarUtil.c:[m[K In function ‘[01m[KarUtilSleep[m[K’:
+[01m[KarUtil.c:308:5:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Knanosleep[m[K’ [-Wimplicit-function-declaration]
+     nanosleep( &req, NULL );
+[01;32m[K     ^[m[K
+make[5]: Warning: Archive '../../libAR.a' seems to have been created in deterministic mode. 'arUtil.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'n_US/LC_MESSAGES/make.mo' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'n_US/LC_MESSAGES/make.mo' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'n_US/LC_MESSAGES/make.mo' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'n_US/LC_MESSAGES/make.mo' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'arMultiActivate.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARMulti.a' seems to have been created in deterministic mode. 'arMultiActivate.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARgsub.a' seems to have been created in deterministic mode. 'gsub.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARgsub.a' seems to have been created in deterministic mode. 'gsub.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+ar: creating ../../libARgsubUtil.a
+make[5]: Warning: Archive '../../libARgsubUtil.a' seems to have been created in deterministic mode. 'gsubUtil.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+[01m[Kgsub_lite.c:102:0:[m[K [01;35m[Kwarning: [m[K"GL_TEXTURE_RECTANGLE" redefined
+ #  define GL_TEXTURE_RECTANGLE    GL_TEXTURE_RECTANGLE_NV
+[01;32m[K ^[m[K
+In file included from [01m[K/usr/include/GL/gl.h:2055:0[m[K,
+                 from [01m[K../../../include/AR/gsub_lite.h:133[m[K,
+                 from [01m[Kgsub_lite.c:48[m[K:
+[01m[K/usr/include/GL/glext.h:1305:0:[m[K [01;36m[Knote: [m[Kthis is the location of the previous definition
+ #define GL_TEXTURE_RECTANGLE              0x84F5
+[01;32m[K ^[m[K
+[01m[Kgsub_lite.c:103:0:[m[K [01;35m[Kwarning: [m[K"GL_PROXY_TEXTURE_RECTANGLE" redefined
+ #  define GL_PROXY_TEXTURE_RECTANGLE  GL_PROXY_TEXTURE_RECTANGLE_NV
+[01;32m[K ^[m[K
+In file included from [01m[K/usr/include/GL/gl.h:2055:0[m[K,
+                 from [01m[K../../../include/AR/gsub_lite.h:133[m[K,
+                 from [01m[Kgsub_lite.c:48[m[K:
+[01m[K/usr/include/GL/glext.h:1307:0:[m[K [01;36m[Knote: [m[Kthis is the location of the previous definition
+ #define GL_PROXY_TEXTURE_RECTANGLE        0x84F7
+[01;32m[K ^[m[K
+[01m[Kgsub_lite.c:104:0:[m[K [01;35m[Kwarning: [m[K"GL_MAX_RECTANGLE_TEXTURE_SIZE" redefined
+ #  define GL_MAX_RECTANGLE_TEXTURE_SIZE  GL_MAX_RECTANGLE_TEXTURE_SIZE_NV
+[01;32m[K ^[m[K
+In file included from [01m[K/usr/include/GL/gl.h:2055:0[m[K,
+                 from [01m[K../../../include/AR/gsub_lite.h:133[m[K,
+                 from [01m[Kgsub_lite.c:48[m[K:
+[01m[K/usr/include/GL/glext.h:1308:0:[m[K [01;36m[Knote: [m[Kthis is the location of the previous definition
+ #define GL_MAX_RECTANGLE_TEXTURE_SIZE     0x84F8
+[01;32m[K ^[m[K
+[01m[Kgsub_lite.c:[m[K In function ‘[01m[KarglCameraFrustum[m[K’:
+[01m[Kgsub_lite.c:660:26:[m[K [01;35m[Kwarning: [m[Kpassing argument 1 of ‘[01m[KarParamDecompMat[m[K’ discards ‘[01m[Kconst[m[K’ qualifier from pointer target type [-Wdiscarded-array-qualifiers]
+     if (arParamDecompMat(cparam->mat, icpara, trans) < 0) {
+[01;32m[K                          ^[m[K
+In file included from [01m[K../../../include/AR/ar.h:48:0[m[K,
+                 from [01m[K../../../include/AR/gsub_lite.h:137[m[K,
+                 from [01m[Kgsub_lite.c:48[m[K:
+[01m[K../../../include/AR/param.h:123:6:[m[K [01;36m[Knote: [m[Kexpected ‘[01m[Kdouble (*)[4][m[K’ but argument is of type ‘[01m[Kconst double (*)[4][m[K’
+ int  arParamDecompMat( double source[3][4], double cpara[3][4], double trans[3][4] );
+[01;32m[K      ^[m[K
+[01m[Kgsub_lite.c:[m[K In function ‘[01m[KarglCameraFrustumRH[m[K’:
+[01m[Kgsub_lite.c:719:26:[m[K [01;35m[Kwarning: [m[Kpassing argument 1 of ‘[01m[KarParamDecompMat[m[K’ discards ‘[01m[Kconst[m[K’ qualifier from pointer target type [-Wdiscarded-array-qualifiers]
+     if (arParamDecompMat(cparam->mat, icpara, trans) < 0) {
+[01;32m[K                          ^[m[K
+In file included from [01m[K../../../include/AR/ar.h:48:0[m[K,
+                 from [01m[K../../../include/AR/gsub_lite.h:137[m[K,
+                 from [01m[Kgsub_lite.c:48[m[K:
+[01m[K../../../include/AR/param.h:123:6:[m[K [01;36m[Knote: [m[Kexpected ‘[01m[Kdouble (*)[4][m[K’ but argument is of type ‘[01m[Kconst double (*)[4][m[K’
+ int  arParamDecompMat( double source[3][4], double cpara[3][4], double trans[3][4] );
+[01;32m[K      ^[m[K
+ar: creating ../../libARgsub_lite.a
+make[5]: Warning: Archive '../../libARgsub_lite.a' seems to have been created in deterministic mode. 'gsub_lite.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+ar: creating ../../libARvideo.a
+make[5]: Warning: Archive '../../libARvideo.a' seems to have been created in deterministic mode. 'ccvt_c.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+make[5]: Warning: Archive '../../libARvideo.a' seems to have been created in deterministic mode. 'video.o' will always be updated. Please consider passing the U flag to ar to avoid the problem.
+[01m[Kcalib_dist.c:[m[K In function ‘[01m[KKeyboard[m[K’:
+[01m[Kcalib_dist.c:429:4:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+    scanf("%d",&gThresh); while( getchar()!='\n' );
+[01;32m[K    ^[m[K
+[01m[Kcalib_cparam.c:[m[K In function ‘[01m[KKeyboard[m[K’:
+[01m[Kcalib_cparam.c:330:6:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+      scanf("%s", name);
+[01;32m[K      ^[m[K
+[01m[Kcalib_cparam.c:[m[K In function ‘[01m[Kinit[m[K’:
+[01m[Kcalib_cparam.c:184:5:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+     scanf("%lf", &dist_factor[0]);
+[01;32m[K     ^[m[K
+[01m[Kcalib_cparam.c:187:5:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+     scanf("%lf", &dist_factor[1]);
+[01;32m[K     ^[m[K
+[01m[Kcalib_cparam.c:190:5:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+     scanf("%lf", &dist_factor[2]);
+[01;32m[K     ^[m[K
+[01m[Kcalib_cparam.c:193:5:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+     scanf("%lf", &dist_factor[3]);
+[01;32m[K     ^[m[K
+[01m[Kcalib_cparam_sub.c:[m[K In function ‘[01m[KinitLineModel[m[K’:
+[01m[Kcalib_cparam_sub.c:25:5:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kfgets[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+     fgets(buf, 256, stdin);
+[01;32m[K     ^[m[K
+[01m[Kcalib_cparam_sub.c:28:5:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kfgets[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+     fgets(buf, 256, stdin);
+[01;32m[K     ^[m[K
+[01m[Kcalib_cparam_sub.c:36:5:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kfgets[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+     fgets(buf, 256, stdin);
+[01;32m[K     ^[m[K
+[01m[Kcalib_cparam_sub.c:44:5:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kfgets[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+     fgets(buf, 256, stdin);
+[01;32m[K     ^[m[K
+[01m[Kcalib_cparam_sub.c:47:5:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kfgets[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+     fgets(buf, 256, stdin);
+[01;32m[K     ^[m[K
+[01m[Kmk_patt.c:[m[K In function ‘[01m[KMouse[m[K’:
+[01m[Kmk_patt.c:213:4:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+    scanf("%d", &gARTThreshhold); while (getchar() != '\n');
+[01;32m[K    ^[m[K
+[01m[Kmk_patt.c:[m[K In function ‘[01m[KKeyboard[m[K’:
+[01m[Kmk_patt.c:186:4:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+    scanf("%d", &gARTThreshhold); while (getchar()!='\n');
+[01;32m[K    ^[m[K
+[01m[Kmain.c:[m[K In function ‘[01m[KKeyboard[m[K’:
+[01m[Kmain.c:456:4:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+    scanf("%d",&gThresh); while( getchar()!='\n' );
+[01;32m[K    ^[m[K
+[01m[Kmain.c:[m[K In function ‘[01m[Kinit[m[K’:
+[01m[Kmain.c:180:5:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+     scanf("%lf", &length);
+[01;32m[K     ^[m[K
+[01m[Kmain.c:[m[K In function ‘[01m[Ksave_param[m[K’:
+[01m[Kmain.c:794:5:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+     scanf( "%s", name );
+[01;32m[K     ^[m[K
+[01m[KmultiTest.c:[m[K In function ‘[01m[KkeyEvent[m[K’:
+[01m[KmultiTest.c:66:9:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+         scanf("%d",&thresh); while( getchar()!='\n' );
+[01;32m[K         ^[m[K
+[01m[KpaddleInteractionTest.c:[m[K In function ‘[01m[KkeyEvent[m[K’:
+[01m[KpaddleInteractionTest.c:101:9:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+         scanf("%d",&thresh); while( getchar()!='\n' );
+[01;32m[K         ^[m[K
+[01m[KpaddleDemo.c:[m[K In function ‘[01m[KkeyEvent[m[K’:
+[01m[KpaddleDemo.c:96:9:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+         scanf("%d",&thresh); while( getchar()!='\n' );
+[01;32m[K         ^[m[K
+[01m[Koptical.c:[m[K In function ‘[01m[KkeyEvent[m[K’:
+[01m[Koptical.c:91:9:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+         scanf("%d",&thresh); while( getchar()!='\n' );
+[01;32m[K         ^[m[K
+[01m[KmodeTest.c:[m[K In function ‘[01m[KkeyEvent[m[K’:
+[01m[KmodeTest.c:101:9:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+         scanf("%d",&thresh); while( getchar()!='\n' );
+[01;32m[K         ^[m[K
+[01m[Kexview.c:[m[K In function ‘[01m[KkeyEvent[m[K’:
+[01m[Kexview.c:250:9:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kscanf[m[K’, declared with attribute warn_unused_result [-Wunused-result]
+         scanf("%d",&thresh); while( getchar()!='\n' );
+[01;32m[K         ^[m[K

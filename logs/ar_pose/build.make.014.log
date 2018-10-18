@@ -1,0 +1,16 @@
+[  0%] Built target ARToolkit_catkin
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _ar_pose_generate_messages_check_deps_ARMarker
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _ar_pose_generate_messages_check_deps_ARMarkers
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[ 11%] Built target ar_pose_generate_messages_cpp
+[ 27%] Built target ar_pose_generate_messages_py
+[ 38%] Built target ar_pose_generate_messages_nodejs
+[ 55%] Built target ar_pose_generate_messages_eus
+[ 66%] Built target ar_pose_generate_messages_lisp
+[ 83%] Built target ar_single
+[100%] Built target ar_multi
+[100%] Built target ar_pose_generate_messages

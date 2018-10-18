@@ -1,0 +1,1 @@
+/home/jyk/perception_driven_ws/devel/.private/collision_avoidance_pick_and_place/share/common-lisp/ros/collision_avoidance_pick_and_place/srv/_package.lisp

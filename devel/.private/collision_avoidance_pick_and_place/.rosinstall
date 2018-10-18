@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jyk/perception_driven_ws/devel/.private/collision_avoidance_pick_and_place/setup.sh

@@ -1,0 +1,1 @@
+/home/jyk/perception_driven_ws/devel/.private/collision_avoidance_pick_and_place/lib/python2.7/dist-packages/collision_avoidance_pick_and_place/srv/__init__.py

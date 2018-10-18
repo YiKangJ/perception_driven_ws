@@ -1,0 +1,1 @@
+/home/jyk/perception_driven_ws/devel/.private/object_manipulation_msgs/lib/python2.7/dist-packages/object_manipulation_msgs/msg/_GraspHandPostureExecutionActionFeedback.py

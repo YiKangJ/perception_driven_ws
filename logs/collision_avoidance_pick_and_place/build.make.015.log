@@ -1,0 +1,39 @@
+[  0%] Built target shape_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target shape_msgs_generate_messages_nodejs
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _collision_avoidance_pick_and_place_generate_messages_check_deps_GetTargetPose
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target shape_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target shape_msgs_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target pcl_msgs_generate_messages_eus
+[  0%] Built target shape_msgs_generate_messages_eus
+[  4%] Built target collision_avoidance_pick_and_place_generate_messages_nodejs
+[  8%] Built target collision_avoidance_pick_and_place_generate_messages_cpp
+[ 16%] Built target collision_avoidance_pick_and_place_generate_messages_py
+[ 20%] Built target collision_avoidance_pick_and_place_generate_messages_lisp
+[ 29%] Built target collision_avoidance_pick_and_place_generate_messages_eus
+[ 29%] Built target collision_avoidance_pick_and_place_generate_messages
+[ 37%] Built target generate_cloud_node
+[ 45%] Built target target_recognition_service
+[35m[1mScanning dependencies of target pick_and_place_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/pick_and_place_node.dir/src/tasks/set_gripper.cpp.o[0m
+[01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/tasks/set_gripper.cpp:[m[K In member function '[01m[Kvoid collision_avoidance_pick_and_place::PickAndPlace::set_gripper(bool)[m[K':
+[01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/tasks/set_gripper.cpp:45:3:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K;[m[K' before '[01m[Kif[m[K'
+   if(success)
+[01;32m[K   ^[m[K
+[01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/tasks/set_gripper.cpp:57:1:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K}[m[K' at end of input
+ }
+[01;32m[K ^[m[K
+CMakeFiles/pick_and_place_node.dir/build.make:110: recipe for target 'CMakeFiles/pick_and_place_node.dir/src/tasks/set_gripper.cpp.o' failed
+make[2]: *** [CMakeFiles/pick_and_place_node.dir/src/tasks/set_gripper.cpp.o] Error 1
+CMakeFiles/Makefile2:1657: recipe for target 'CMakeFiles/pick_and_place_node.dir/all' failed
+make[1]: *** [CMakeFiles/pick_and_place_node.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

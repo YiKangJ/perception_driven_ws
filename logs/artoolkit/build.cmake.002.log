@@ -1,0 +1,3 @@
+Not searching for unused variables given on the command line.
+CMake Error: The source directory "/home/jyk/perception_driven_ws/build/artoolkit/collision_avoidance_pick_and_place" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.

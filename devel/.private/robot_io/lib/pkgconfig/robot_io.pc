@@ -1,0 +1,8 @@
+prefix=/home/jyk/perception_driven_ws/devel/.private/robot_io
+
+Name: robot_io
+Description: Description of robot_io
+Version: 0.0.0
+Cflags: -I/home/jyk/perception_driven_ws/devel/.private/robot_io/include
+Libs: -L/home/jyk/perception_driven_ws/devel/.private/robot_io/lib 
+Requires: roscpp message_runtime ur_msgs actionlib_msgs actionlib

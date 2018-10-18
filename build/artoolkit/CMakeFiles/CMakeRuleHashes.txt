@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+65d933afcbb353452cfb7e7698bffd8a ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-build
+4d43b6d7e49a9a8eb9ae638c32a10c3f ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-configure
+12618bd422560f5477a682b959957f07 ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-download
+bc87f96a0712f262f4c519a46fdc28fb ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-install
+fe44c6e60e510ee7351bb76d637326ac ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-mkdir
+cfbb08442b817fd08a6ea3216efef4bb ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-patch
+3e06c7b1f8fa6202df85e842de766816 ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-update
+8b089111a987b55efa16892e8b552b3e CMakeFiles/ARToolkit
+d177f901bdb7b9702f2207869be3d15d CMakeFiles/ARToolkit-complete
+23290197157419b58d618657d700f831 CMakeFiles/clean_test_results

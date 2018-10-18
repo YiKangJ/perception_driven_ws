@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jyk/perception_driven_ws/build/artoolkit/CMakeFiles/ARToolkit"
+		},
+		{
+			"file" : "/home/jyk/perception_driven_ws/build/artoolkit/CMakeFiles/ARToolkit.rule"
+		},
+		{
+			"file" : "/home/jyk/perception_driven_ws/build/artoolkit/CMakeFiles/ARToolkit-complete.rule"
+		},
+		{
+			"file" : "/home/jyk/perception_driven_ws/build/artoolkit/ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-install.rule"
+		},
+		{
+			"file" : "/home/jyk/perception_driven_ws/build/artoolkit/ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-mkdir.rule"
+		},
+		{
+			"file" : "/home/jyk/perception_driven_ws/build/artoolkit/ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-download.rule"
+		},
+		{
+			"file" : "/home/jyk/perception_driven_ws/build/artoolkit/ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-update.rule"
+		},
+		{
+			"file" : "/home/jyk/perception_driven_ws/build/artoolkit/ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-patch.rule"
+		},
+		{
+			"file" : "/home/jyk/perception_driven_ws/build/artoolkit/ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-configure.rule"
+		},
+		{
+			"file" : "/home/jyk/perception_driven_ws/build/artoolkit/ARToolkit-prefix/src/ARToolkit-stamp/ARToolkit-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ARToolkit"
+		],
+		"name" : "ARToolkit"
+	}
+}

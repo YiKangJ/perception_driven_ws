@@ -1,0 +1,1 @@
+/home/jyk/perception_driven_ws/devel/.private/ur5_collision_avoidance_moveit_config/share/ur5_collision_avoidance_moveit_config/cmake/ur5_collision_avoidance_moveit_configConfig.cmake

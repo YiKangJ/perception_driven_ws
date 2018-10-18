@@ -1,0 +1,29 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target shape_msgs_generate_messages_cpp
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target shape_msgs_generate_messages_nodejs
+[  0%] Built target _collision_avoidance_pick_and_place_generate_messages_check_deps_GetTargetPose
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target shape_msgs_generate_messages_py
+[  0%] Built target shape_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  4%] Built target collision_avoidance_pick_and_place_generate_messages_cpp
+[  4%] Built target shape_msgs_generate_messages_eus
+[  8%] Built target collision_avoidance_pick_and_place_generate_messages_nodejs
+[ 16%] Built target collision_avoidance_pick_and_place_generate_messages_py
+[ 20%] Built target collision_avoidance_pick_and_place_generate_messages_lisp
+[ 29%] Built target generate_cloud_node
+[ 37%] Built target collision_avoidance_pick_and_place_generate_messages_eus
+[ 45%] Built target target_recognition_service
+[ 45%] Built target collision_avoidance_pick_and_place_generate_messages
+[35m[1mScanning dependencies of target pick_and_place_node[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/pick_and_place_node.dir/src/tasks/set_attached_object.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/pick_and_place_node.dir/src/tasks/place_box.cpp.o[0m
+[ 58%] [32m[1mLinking CXX executable /home/jyk/perception_driven_ws/devel/.private/collision_avoidance_pick_and_place/lib/collision_avoidance_pick_and_place/pick_and_place_node[0m
+[100%] Built target pick_and_place_node

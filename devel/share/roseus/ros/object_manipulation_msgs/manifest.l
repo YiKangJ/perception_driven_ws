@@ -1,0 +1,1 @@
+/home/jyk/perception_driven_ws/devel/.private/object_manipulation_msgs/share/roseus/ros/object_manipulation_msgs/manifest.l

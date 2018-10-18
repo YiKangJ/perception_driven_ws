@@ -1,0 +1,1 @@
+/home/jyk/perception_driven_ws/devel/.private/ar_pose/share/ar_pose/cmake/ar_pose-msg-extras.cmake

@@ -1,0 +1,1 @@
+/home/jyk/perception_driven_ws/devel/.private/ar_pose/lib/python2.7/dist-packages/ar_pose/msg/__init__.py

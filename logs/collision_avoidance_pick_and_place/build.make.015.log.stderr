@@ -1,0 +1,10 @@
+[01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/tasks/set_gripper.cpp:[m[K In member function '[01m[Kvoid collision_avoidance_pick_and_place::PickAndPlace::set_gripper(bool)[m[K':
+[01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/tasks/set_gripper.cpp:45:3:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K;[m[K' before '[01m[Kif[m[K'
+   if(success)
+[01;32m[K   ^[m[K
+[01m[K/home/jyk/perception_driven_ws/src/collision_avoidance_pick_and_place/src/tasks/set_gripper.cpp:57:1:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K}[m[K' at end of input
+ }
+[01;32m[K ^[m[K
+make[2]: *** [CMakeFiles/pick_and_place_node.dir/src/tasks/set_gripper.cpp.o] Error 1
+make[1]: *** [CMakeFiles/pick_and_place_node.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,20 @@
+In file included from [01m[K/home/jyk/perception_driven_ws/src/ar_tools/ar_pose/src/ar_multi.cpp:25:0[m[K:
+[01m[K/home/jyk/perception_driven_ws/src/ar_tools/ar_pose/include/ar_pose/ar_multi.h:31:31:[m[K [01;31m[Kfatal error: [m[Kartoolkit/AR/gsub.h: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/ar_multi.dir/src/ar_multi.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+[01m[K/home/jyk/perception_driven_ws/src/ar_tools/ar_pose/src/object.cpp:29:29:[m[K [01;31m[Kfatal error: [m[Kartoolkit/AR/ar.h: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/ar_multi.dir/src/object.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ar_multi.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+In file included from [01m[K/home/jyk/perception_driven_ws/src/ar_tools/ar_pose/src/ar_single.cpp:25:0[m[K:
+[01m[K/home/jyk/perception_driven_ws/src/ar_tools/ar_pose/include/ar_pose/ar_single.h:31:32:[m[K [01;31m[Kfatal error: [m[Kartoolkit/AR/param.h: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/ar_single.dir/src/ar_single.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+[01m[K/home/jyk/perception_driven_ws/src/ar_tools/ar_pose/src/object.cpp:29:29:[m[K [01;31m[Kfatal error: [m[Kartoolkit/AR/ar.h: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/ar_single.dir/src/object.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ar_single.dir/all] Error 2
+make: *** [all] Error 2

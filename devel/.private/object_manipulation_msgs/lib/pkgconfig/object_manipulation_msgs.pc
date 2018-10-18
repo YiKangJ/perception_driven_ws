@@ -1,0 +1,8 @@
+prefix=/home/jyk/perception_driven_ws/devel/.private/object_manipulation_msgs
+
+Name: object_manipulation_msgs
+Description: Description of object_manipulation_msgs
+Version: 0.0.0
+Cflags: -I/home/jyk/perception_driven_ws/devel/.private/object_manipulation_msgs/include
+Libs: -L/home/jyk/perception_driven_ws/devel/.private/object_manipulation_msgs/lib 
+Requires: message_runtime actionlib_msgs std_msgs geometry_msgs sensor_msgs trajectory_msgs sensor_msgs household_objects_database_msgs shape_msgs manipulation_msgs

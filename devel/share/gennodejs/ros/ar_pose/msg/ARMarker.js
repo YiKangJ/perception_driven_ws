@@ -1,0 +1,1 @@
+/home/jyk/perception_driven_ws/devel/.private/ar_pose/share/gennodejs/ros/ar_pose/msg/ARMarker.js
